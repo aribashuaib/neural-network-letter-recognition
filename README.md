@@ -27,8 +27,6 @@ Handwriting recognition is a fundamental problem in AI, with applications in **O
 
 To run the project locally, follow these steps:  
 
-📜 Clone the Repository:
-```sh
 git clone https://github.com/aribashuaib/LetterRecognition-ML.git
 cd LetterRecognition-ML
 
