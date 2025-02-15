@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c1fa4138-cfe9-498c-978d-9f06ab0c2254)# neural-network-letter-recognition
+# neural-network-letter-recognition
 # Letter Recognition with Neural Networks
 
 This project implements a **deep learning model** to classify handwritten letters (A-Z) using the **UCI Letter Recognition Dataset**. The model is built with **TensorFlow/Keras** and achieves an impressive **92.6% accuracy** on the test set. 🚀  
@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
 git clone https://github.com/aribashuaib/LetterRecognition-ML.git
 cd LetterRecognition-ML
 
-##📦 Dependencies
+📦 Dependencies
 
 To run this project, install the following Python packages:
 
@@ -41,7 +41,7 @@ To run this project, install the following Python packages:
 - `tensorflow`
 - `matplotlib`
 
-##🚀 Running the Model
+🚀 Running the Model
 After installing the dependencies, run the script to train and evaluate the model:
 python train.py
 The model will:
@@ -51,7 +51,7 @@ The model will:
 -Train a neural network
 -Evaluate performance and print accuracy & classification reports
 
-## 📈 Model Performance
+📈 Model Performance
 -Final Accuracy: 92.6%
 -Loss Trend: Model loss steadily decreases over epochs
 -Best Validation Accuracy: 92.6% after 20 epochs
