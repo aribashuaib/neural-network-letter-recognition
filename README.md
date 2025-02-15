@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 git clone https://github.com/aribashuaib/LetterRecognition-ML.git
 cd LetterRecognition-ML
 
-## 📦 Dependencies:
+📦 Dependencies:
 To run this project, install the following Python packages:
 
 - `numpy`
