@@ -39,7 +39,7 @@ To run this project, install the following Python packages:
 - `tensorflow`
 - `matplotlib`
 
-## 🚀 Running the Model:
+🚀 Running the Model:
 After installing the dependencies, run the script to train and evaluate the model:
 python train.py
 
@@ -49,7 +49,7 @@ The model will:
 -Train a neural network
 -Evaluate performance and print accuracy & classification reports
 
-## 📈 Model Performance:
+📈 Model Performance:
 -Final Accuracy: 92.6%
 -Loss Trend: Model loss steadily decreases over epochs
 -Best Validation Accuracy: 92.6% after 20 epochs
